@@ -1,4 +1,4 @@
-# 🏡 Boston House Price Prediction
+# 🏡House Price Prediction
 
 Predict house prices in Boston using a Gradient Boosting Regressor deployed as an interactive Streamlit web app.
 
